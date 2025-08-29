@@ -1,7 +1,3 @@
-Here’s a structured follow-up session plan that naturally builds on your CNN session, focusing on the **vanishing gradient problem**, **residual blocks**, and **batch normalization**. I’ve included both (1) an instructor-led demo/example script and (2) a student solo exercise.
-
----
-
 # Machine Learning Session 7: Deeper CNNs, Residual Connections & Batch Normalization
 
 ## Tackling Vanishing Gradients in Deep Networks
@@ -398,9 +394,3 @@ Steps:
 **Looking Ahead**:
 
 * Next session: Explore **transfer learning with pretrained CNNs** (e.g., ResNet on ImageNet)
-
----
-
-👉 This way, Session 7 is a natural progression: from *basic CNNs* (Session 6) → *deeper networks, why they fail, and the architectural tricks that fixed them*.
-
-Would you like me to also **integrate a visualization** of vanishing gradients (like plotting gradient norms layer by layer) into the demo so learners can *see* the problem directly?
